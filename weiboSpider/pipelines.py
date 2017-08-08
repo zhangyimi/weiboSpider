@@ -22,7 +22,7 @@ class WeibospiderPipeline(object):
             port=3306,
             user='root',
             # 这里填写密码
-            passwd='zxc5667456m',
+            passwd='',
             db='weibo',
             charset='utf8',
         )
