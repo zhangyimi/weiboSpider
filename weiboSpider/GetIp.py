@@ -11,7 +11,7 @@ from multiprocessing.dummy import Pool
 
 dbapi = "MySQLdb"
 kwargs = {'user': 'root',
-          'passwd': 'zxc5667456m',
+          'passwd': 'xxx',
           'db': 'test',
           'host': 'localhost',
           'use_unicode': True}
